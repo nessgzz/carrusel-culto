@@ -1,0 +1,2721 @@
+      
+<!--Carrusel para entradas en homepage-->
+<!-- import the webpage's stylesheet -->
+<link rel="stylesheet" href="/style.css">
+<!-- - Font - -->
+<link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+    rel="stylesheet" /> <!-- Swiper Slide Library CSS & JS -->
+<link rel="stylesheet" href="https://site.innovasport.com/ux/ux-desarrollos/swiper.css" />
+<script src="https://site.innovasport.com/ux/ux-desarrollos/swiper.js"></script>
+
+
+<!-- Start Divider -->
+<div class="c-divider">
+    <h3 class="c-dividerTxt">Blog Culto Futbol</h3>
+</div>
+<!-- Carrusel Entrance -->
+<div class="">
+    <!-- Swiper -->
+    <div class="swiper-container c-carousel-srollbar">
+        <div class="swiper-wrapper c-flex-wrapper">
+            <a class="swiper-slide c-slide__scrollbar c-bottomGradient c-culto-slide"
+                href="https://www.cultofutbol.com/blog?promo_name=21-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-blog-culto&promo_position=16">
+                <div>
+                    <img class="c-logo__cultoslider" alt="" title=""
+                        src="https://site.innovasport.com/ux/culto/ojo.svg">
+                </div>
+
+                <h4 class="c-title__cultoslider">Blog Culto</h4>
+                <p class="c-copy__cultoslider">
+                    Si te consideras un verdadero apasionado del fútbol, esto es para ti,
+                    ponte al dia con nuestras noticias más relevantes de la pasión que nos une.
+                </p>
+
+                <div class="c-ctaBtn c-index-2" style="background-color: white;">Ir al blog</div>
+
+            </a>
+            <!--Slide 1 balon mundial-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/balon-al-rihla?promo_name=22-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-balon&promo_position=0">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="" title=""
+                        src="https://site.innovasport.com/culto/blog-culto-22/balon-mundial/blog-entrada-balon-mundial-750x975-1-mob.jpg">
+                </div>
+
+                <!-- Flag -->
+                <div class="c-flag-slider ">
+                    <span class="c-copy__flag">CRACKS</span>
+                </div>
+
+                <!-- Date
+                    <div class="c-date-slider">
+                        <div class="c-copy__date">20<span class="c-line__date">|</span>AGO</div>
+                    </div> -->
+
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">Al Rihla, nuevo balón mundial</h3>
+                    <p class="c-copy-slider">El nuevo balón del Mundial Al Rihla. Historia y características.</p>
+                </div>
+
+                <!-- See more-->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+
+
+            <!--Slide 1 Liga MX-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/liga-mx-c22?promo_name=22-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-bienvenido-culto&promo_position=17">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="" title=""
+                        src="https://site.innovasport.com/culto/blog-culto-22/entrada%20liga%20mx%2022/blog-entrada-liga-mx-2022-mob-portada.jpg">
+                </div>
+
+                <!-- Flag -->
+                <div class="c-flag-slider ">
+                    <span class="c-copy__flag">CRACKS</span>
+                </div>
+
+                <!-- Date
+                    <div class="c-date-slider">
+                        <div class="c-copy__date">20<span class="c-line__date">|</span>AGO</div>
+                    </div> -->
+
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">Grita México C22</h3>
+                    <p class="c-copy-slider">Jugadores, técnicos y clubes: esto nos espera del Grita México C22 </p>
+                </div>
+
+                <!-- See more-->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+
+            <!--Slide 1 Bienvenido al culto-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/bienvenido-al-culto?promo_name=21-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-bienvenido-culto&promo_position=18">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="" title=""
+                        src="https://site.innovasport.com/culto/2021/blog/entrada%20bienvenido%20al%20culto/homeblog-portada-entrada-culto-desk.jpg">
+                </div>
+
+                <!-- Flag -->
+                <div class="c-flag-slider ">
+                    <span class="c-copy__flag">CRACKS</span>
+                </div>
+
+                <!-- Date
+                <div class="c-date-slider">
+                    <div class="c-copy__date">20<span class="c-line__date">|</span>AGO</div>
+                </div> -->
+
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">Bienvenido al Culto</h3>
+                    <p class="c-copy-slider">Un espacio para hinchas</p>
+                </div>
+
+                <!-- See more-->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+
+
+            <!--Slide 1 jersey jugador aficionado-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/jersey-jugador-aficionado">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="" title=""
+                        src="https://site.innovasport.com/culto/2021/blog/jerseyafic-jerseyjug/blog-entrada-diferencia-jerseys-mob-1.jpg">
+                </div>
+
+                <!-- Flag -->
+                <div class="c-flag-slider ">
+                    <span class="c-copy__flag">JERSEYS</span>
+                </div>
+
+                <!-- Date
+                <div class="c-date-slider">
+                    <div class="c-copy__date">20<span class="c-line__date">|</span>AGO</div>
+                </div> -->
+
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">¿Jersey de aficionado o de jugador?</h3>
+                    <p class="c-copy-slider">Conoce las diferencias entre versión jugador y aficionado</p>
+                </div>
+
+                <!-- See more-->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+
+
+            <!--Slide 1 conv training culto-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/training-culto/convocatoria">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="" title=""
+                        src="https://site.innovasport.com/culto/2021/blog/convocatoria%20culto%20training/blog-cover-convocatoria-entrada-cultotraining-mob.jpg">
+                </div>
+
+                <!-- Flag -->
+                <div class="c-flag-slider ">
+                    <span class="c-copy__flag">CRACKS</span>
+                </div>
+
+                <!-- Date
+                <div class="c-date-slider">
+                    <div class="c-copy__date">20<span class="c-line__date">|</span>AGO</div>
+                </div> -->
+
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">Convocatoria Culto Training Camp</h3>
+                    <p class="c-copy-slider">Un espacio para quien busca mejorar su juego</p>
+                </div>
+
+                <!-- See more-->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+
+
+
+
+            <!-- Start Entry -->
+            <!--trainning culto-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/training-culto?promo_name=21-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-training-culto&promo_position=18">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="Conoce los tachones adidas X Ghosted"
+                        title="Conoce los tachones adidas X Ghosted"
+                        src="https://site.innovasport.com/culto/2021/blog/training%20culto/blog-entrada-cultotraining-1-mob.jpg">
+                </div>
+                <!-- Flag -->
+                <div class="c-flag-slider">
+                    <span class="c-copy__flag">CRACKS</span>
+                </div>
+                <!-- Date -->
+                <div class="c-date-slider">
+                    <div class="c-copy__date">01 <span class="c-line__date">|</span> OCT <span
+                            class="c-line__date">|</span> 21</div>
+                </div>
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">Culto Training Camp </h3>
+                    <p class="c-copy-slider">Culto Training Camp, la experiencia personalizada para los amantes del
+                        fútbol en México con trial de producto y clínicas personalizadas.</p>
+                </div>
+                <!-- See more -->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+            <!-- End Entry -->
+
+
+            <!-- Start Entry -->
+            <!--messi-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/messi-al-psg?promo_name=21-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-messi-psg&promo_position=19">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="Conoce los tachones adidas X Ghosted"
+                        title="Conoce los tachones adidas X Ghosted"
+                        src="https://site.innovasport.com/culto/2021/blog/entrada%20messi/blog-entrada-messipsg-1-mob.jpg">
+                </div>
+                <!-- Flag -->
+                <div class="c-flag-slider">
+                    <span class="c-copy__flag">CRACKS</span>
+                </div>
+                <!-- Date -->
+                <div class="c-date-slider">
+                    <div class="c-copy__date">11 <span class="c-line__date">|</span> AGO <span
+                            class="c-line__date">|</span> 21</div>
+                </div>
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">Messi llega al PSG </h3>
+                    <p class="c-copy-slider">Messi deja al Barcelona tras 17 años desde su debut profesional. 778
+                        partidos y 35 títulos es su legado.</p>
+                </div>
+                <!-- See more -->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+            <!-- End Entry -->
+
+            <!-- Start Entry -->
+            <!--suelas-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/suelas-tenis-futbol?promo_name=21-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-tachones-suelas&promo_position=20">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="Conoce los tachones adidas X Ghosted"
+                        title="Conoce los tachones adidas X Ghosted"
+                        src="https://site.innovasport.com/culto/2021/blog/entrada%20suelas/blog-entrada-suelas-1-mob.jpg">
+                </div>
+                <!-- Flag -->
+                <div class="c-flag-slider">
+                    <span class="c-copy__flag">Tachones</span>
+                </div>
+                <!-- Date -->
+                <div class="c-date-slider">
+                    <div class="c-copy__date">03 <span class="c-line__date">|</span> AGO <span
+                            class="c-line__date">|</span> 21</div>
+                </div>
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">Tipos de Suelas en calzado de futbol </h3>
+                    <p class="c-copy-slider">Te presentamos las diferentes suelas para calzado de futbol y sus
+                        características.</p>
+                </div>
+                <!-- See more -->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+            <!-- End Entry -->
+
+
+            <!-- Slide 2 Nike Mercurial-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/tenis/nike/mercurial?promo_name=21-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-tachones-mercurial&promo_position=21">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="" title=""
+                        src="https://site.innovasport.com/culto/2021/blog/Entradas%20hp%20blog/carrusel-home-blog-chosen2-mob.jpg">
+                </div>
+
+                <!-- Flag -->
+                <div class="c-flag-slider ">
+                    <span class="c-copy__flag">Tachones</span>
+
+                </div>
+
+                <!-- Date -->
+                <div class="c-date-slider">
+                    <div class="c-copy__date">21 <span class="c-line__date">|</span> ENE</div>
+                </div>
+
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">Nike Mercurial</h3>
+                    <p class="c-copy-slider">Una colaboración épica y muy limitada. Mbappé y LeBron “Chosen 2”</p>
+                </div>
+
+                <!-- See more-->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+
+            <!--Slide 3 chivas 3erkit-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/kit-chivas-tercero-20-21?promo_name=21-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-chivas-tercero&promo_position=22">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="" title=""
+                        src="https://site.innovasport.com/culto/2021/blog/Entradas%20hp%20blog/carrusel-home-blog-chivas-third-kit-desk.jpg">
+                </div>
+
+                <!-- Flag -->
+                <div class="c-flag-slider ">
+                    <span class="c-copy__flag">Jerseys</span>
+                </div>
+
+                <!-- Date -->
+                <div class="c-date-slider">
+                    <div class="c-copy__date">21 <span class="c-line__date">|</span> ENE</div>
+                </div>
+
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">Chivas Tercer Kit</h3>
+                    <p class="c-copy-slider">7 razones que te harán enamorarte aun más.</p>
+                </div>
+
+                <!-- See more-->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+
+            <!--Slide 4 Nike phantom secret tournament-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/nike/tenis/phantom-scorpion?promo_name=21-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-tachones-nike-secret&promo_position=23">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="" title=""
+                        src="https://site.innovasport.com/culto/2021/blog/Entradas%20hp%20blog/carrusel-home-blog-secret-tournament-desk.jpg">
+                </div>
+
+                <!-- Flag -->
+                <div class="c-flag-slider ">
+                    <span class="c-copy__flag">Tachones</span>
+                </div>
+
+                <!-- Date -->
+                <div class="c-date-slider">
+                    <div class="c-copy__date">21<span class="c-line__date">|</span>ENE</div>
+                </div>
+
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">Nike Phantom Secret Tournament</h3>
+                    <p class="c-copy-slider">El tributo a un torneo secreto de Nike que marcó a toda una generación.</p>
+                </div>
+
+                <!-- See more-->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+
+
+            <!--Slide 5 jersey wolves-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/jersey-wolves-2021?promo_name=21-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-jersey-wolverhampton&promo_position=24">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="" title=""
+                        src="https://site.innovasport.com/culto/2021/blog/jerseywolves/homeblog-portada-entrada-wolves-desk.jpg">
+                </div>
+
+                <!-- Flag -->
+                <div class="c-flag-slider ">
+                    <span class="c-copy__flag">Jerseys</span>
+                </div>
+
+                <!-- Date -->
+                <div class="c-date-slider">
+                    <div class="c-copy__date">21<span class="c-line__date">|</span>ENE</div>
+                </div>
+
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">Wolverhampton Wolves Jersey 20/21</h3>
+                    <p class="c-copy-slider">143 años de garra y esfuerzo</p>
+                </div>
+
+                <!-- See more-->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+
+            <!--Slide 6 adidas superspectral-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/superspectral-eurocopa-2020?promo_name=21-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-jersey-superspectral&promo_position=25">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="" title=""
+                        src="https://site.innovasport.com/culto/2021/blog/entrada%20superspectral%20pack%202020/homeblog-portada-entrada-spectral-x-desk.jpg">
+                </div>
+
+                <!-- Flag -->
+                <div class="c-flag-slider ">
+                    <span class="c-copy__flag">Jerseys</span>
+                </div>
+
+                <!-- Date -->
+                <div class="c-date-slider">
+                    <div class="c-copy__date">20<span class="c-line__date">|</span>AGO</div>
+                </div>
+
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">adidas SuperSpectral Eurocopa 2020</h3>
+                    <p class="c-copy-slider">Los tachones para llevar tu juego al siguiente nivel</p>
+                </div>
+
+                <!-- See more-->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+
+            <!--Slide 6 adidas seleccion mexicana-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/seleccion-mexicana-jersey?promo_name=21-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-seleccion-mex&promo_position=26">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="" title=""
+                        src="https://site.innovasport.com/culto/2021/blog/seleccion%20mexicana/homeblog-portada-entrada-seleccion-mexicana-desk.jpg">
+                </div>
+
+                <!-- Flag -->
+                <div class="c-flag-slider ">
+                    <span class="c-copy__flag">Jerseys</span>
+                </div>
+
+                <!-- Date -->
+                <div class="c-date-slider">
+                    <div class="c-copy__date">20<span class="c-line__date">|</span>AGO</div>
+                </div>
+
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">¡Sólos, Jamás! Selección Mexicana</h3>
+                    <p class="c-copy-slider">Conoce todo detrás de la participación de la Selección Mexicana.</p>
+                </div>
+
+                <!-- See more-->
+                <div class="c-moreinfo-slider">
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+
+            <!--Slide 1 adidas x ghosted-->
+            <a class="swiper-slide c-slide__scrollbar"
+                href="https://www.cultofutbol.com/blog/adidas-x-ghosted?promo_name=21-entrada-blog&promo_id=cul-hp-blog-int&promo_creative=slider-entradas-adidas-x-ghosted&promo_position=27">
+                <div class="c-bottom-black-gradient c-relative">
+                    <img class="c-imgBack" alt="" title=""
+                        src="https://site.innovasport.com/culto/2021/blog/Entradas%20hp%20blog/home-blog-entrada-xghosted-desk.jpg">
+                </div>
+
+                <!-- Flag -->
+                <div class="c-flag-slider ">
+                    <span class="c-copy__flag">Tachones</span>
+                </div>
+
+                <!-- Date -->
+                <div class="c-date-slider">
+                    <div class="c-copy__date">20 <span class="c-line__date">|</span> DIC</div>
+                </div>
+
+                <!-- Title&Copy -->
+                <div class="c-info-slider">
+                    <h3 class="c-white c-title-slider">adidas X Ghosted</h3>
+                    <p class="c-copy-slider">Espectaculares y muy ligeros. ¿El mejor zapato de futbol del año?</p>
+                </div>
+
+                <!-- See more-->
+                <div class="c-moreinfo-slider">
+
+                    <span class="c-white c-underline">Ver más</span>
+                </div>
+            </a>
+
+
+
+
+        </div>
+        <!-- Add Scrollbar -->
+        <div class="swiper-scrollbar c-scrollbar"></div>
+    </div>
+</div>
+
+<!--Javascript-->
+<script>
+    // Slider Script
+    $(document).ready(function () {
+        var swiperScroll = new Swiper('.swiper-container.c-carousel-srollbar', {
+            slidesPerView: 'auto',
+            spaceBetween: 17,
+            loop: true,
+            mousewheel: {
+                forceToAxis: true,
+                invert: false,
+            },
+
+            scrollbar: {
+                el: '.swiper-scrollbar',
+                hide: true,
+            },
+            breakpoints: {
+                200: {
+                    slidesPerView: 1.5,
+                    spaceBetween: 15,
+                },
+                681: {
+                    slidesPerView: 2.5,
+                    spaceBetween: 15,
+                },
+                992: {
+                    slidesPerView: 4.5,
+                    spaceBetween: 20,
+                }
+            }
+
+        });
+    });
+</script>
+
+<!--estilos CSS-->
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+
+    }
+
+    img {
+        align-self: flex-start
+    }
+
+    .c-arrow-slider,
+    .swiper-button-prev.c-prevSlide img,
+    .swiper-button-next.c-nextSlide img {
+        margin: auto;
+    }
+
+    .is-breadcrumb-module {
+        display: none !important;
+    }
+
+    body {
+        background-color: #313032;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    .c-fullContent {
+        width: 100%;
+        padding: 0;
+    }
+
+    .c-relative {
+        position: relative;
+    }
+
+    .m-top-15px {
+        margin-top: 15px;
+    }
+
+    .m-bottom-15px {
+        margin-bottom: 15px;
+    }
+
+    .swiper-slide.c-slide__scrollbar a .c-img-back {
+        height: auto;
+    }
+
+    .c-divider {
+        position: relative;
+        width: 100%;
+        border-bottom: 1px solid #EFBF7F;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .c-dividerTxt {
+        padding: 0 12px;
+        background-color: #313032;
+        position: absolute;
+        font-weight: 600;
+        font-family: 'Montserrat', sans-serif;
+        color: #EFBF7F;
+        font-style: italic;
+        text-transform: uppercase;
+        letter-spacing: .5px;
+    }
+
+    .c-absolute {
+        position: absolute;
+    }
+
+    .c-imgBack,
+    .c-img-back {
+        width: 100%;
+    }
+
+    .c-entry-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: start;
+    }
+
+    .c-title-wrapper {
+        padding: 25px 10px;
+        text-align: center;
+    }
+
+    .swiper-container.c-fullSlider {
+        padding-bottom: 30px;
+        height: 100%;
+    }
+
+    .swiper-pagination.c-sliderPagination {
+        bottom: 3px;
+    }
+
+    .swiper-pagination.c-sliderPagination>.swiper-pagination-bullet.swiper-pagination-bullet-active {
+        width: 9px;
+        height: 9px;
+        opacity: 1;
+        border: 1px solid #EFBF7F;
+        background-color: #EFBF7F;
+    }
+
+    .swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
+        background-color: #313032;
+        width: 9px;
+        height: 9px;
+        opacity: 1;
+        border: 1px solid #EFBF7F;
+    }
+
+    .swiper-button-prev:after,
+    .swiper-container-rtl .swiper-button-next:after,
+    .swiper-button-next:after,
+    .swiper-container-rtl .swiper-button-prev:after {
+        content: none !important;
+    }
+
+    .swiper-button-next.c-nextSlide,
+    .swiper-button-prev.c-prevSlide {
+        border-radius: 100%;
+        padding: 2px;
+        border: 1px solid #EFBF7F;
+        background: #0000008c;
+        width: 40px;
+        height: 40px;
+    }
+
+    .swiper-slide.c-slide {
+        width: 100% !important;
+    }
+
+    .swiper-button-prev.c-prevSlide {
+        left: 2%;
+    }
+
+    .swiper-button-next.c-nextSlide {
+        right: 2%;
+    }
+
+    .c-centerContent {
+        display: flex;
+        align-content: center;
+        align-items: center;
+
+    }
+
+    .c-imgContainer {
+        overflow: hidden;
+        width: 100%;
+        display: block;
+    }
+
+    .c-bigBanner,
+    .c-banner1Up {
+        position: relative;
+    }
+
+    .c-bannerContent {
+        position: absolute;
+        align-items: self-start;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .c-btnContainer,
+    .c-slider2Up {
+        display: flex;
+    }
+
+
+    .c-ctaBtn {
+        background-color: white;
+        color: black;
+        font-family: 'Montserrat', sans-serif;
+        cursor: pointer;
+        width: 140px;
+        font-size: 1em;
+        padding: 10px 0;
+        display: block;
+        text-align: center;
+        border-radius: 100px;
+        font-weight: 500;
+        margin-right: 10px;
+    }
+
+
+    .c-ctaBtn-gold {
+        background-color: #EFBF7F;
+        background: linear-gradient(180deg, rgba(247, 201, 140, 1) 0%, rgba(255, 195, 115, 1) 100%);
+    }
+
+    .c-ctaBtn-white {
+        background-color: #ffffff;
+    }
+
+    .c-ctaBtn:hover {
+        color: black;
+    }
+
+    .c-ctaBtn:active {
+        color: black;
+    }
+
+    .c-flagContent,
+    .c-title {
+        font-family: 'Montserrat', sans-serif;
+        color: white;
+        text-transform: uppercase;
+    }
+
+    .c-gold {
+        color: #c7934c;
+    }
+
+    .c-black {
+        color: #2d2d2d;
+    }
+
+    .c-title {
+        font-weight: 700;
+    }
+
+    .c-flagContent {
+        font-style: italic;
+        font-weight: 400;
+    }
+
+    /* Start Gradients */
+    .c-leftGradient,
+    .c-bottomGradient,
+    .c-bottom-black-gradient,
+    .c-bottom-black-gradient {
+        position: relative;
+        display: flex;
+        overflow: hidden;
+        height: 100%;
+    }
+
+    .c-leftGradient:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+        background: rgb(255, 255, 255);
+        background: linear-gradient(270deg, rgba(255, 255, 255, 0) 17%, rgba(0, 0, 0, 0.5634628851540616) 100%);
+    }
+
+    .c-bottomGradient:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+        background: rgb(0, 0, 0);
+        background: linear-gradient(180deg, rgba(0, 0, 0, 0) 68%, rgba(0, 0, 0, 0.19371498599439774) 86%, rgba(0, 0, 0, 0.5326505602240896) 107%);
+    }
+
+    .c-bottom-black-gradient:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+        background: rgb(255, 255, 255);
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, .95) 100%);
+    }
+
+    .c-bottom-black-gradient:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        display: block;
+        background: rgb(255, 255, 255);
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, .95) 100%);
+    }
+
+    /* End Gradients */
+    .c-bannerText .c-bannerContent {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center;
+        width: 100%;
+        position: inherit;
+    }
+
+    .c-copy {
+        font-family: 'Montserrat', sans-serif;
+        color: #d4d4d4;
+        font-weight: 400;
+        line-height: 1.5em;
+        font-size: .8em;
+
+    }
+
+    .c-banner4Up,
+    .c-banner3Up,
+    .c-banner2Up {
+        display: flex;
+    }
+
+    .c-cardContent .c-cardTxt .c-flagContent {
+        color: #EFBF7F;
+    }
+
+    .c-rightBanner .c-cardContent a {
+        height: 100%;
+    }
+
+    .c-rightBanner .c-cardContent {
+        height: 100% !important;
+    }
+
+    .c-promoBanner {
+        background-color: #C4A376;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .c-promoBanner .c-bannerContent {
+        padding: 30px;
+        position: relative;
+    }
+
+    .c-bannerFlag {
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+        letter-spacing: .5px;
+    }
+
+    .c-promoBar {
+        background-color: #84F8F4;
+        display: block;
+    }
+
+    .c-promoTxt {
+        font-family: 'Montserrat', sans-serif;
+        color: #000000;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        padding: 10px 0;
+        text-align: center;
+        font-weight: 600;
+
+    }
+
+    .c-alignCenter {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        left: auto !important;
+        right: auto;
+        flex-direction: column;
+    }
+
+    .c-rightBanner {
+        grid-area: c-rightBanner;
+    }
+
+    .c-banner3Up .c-cardContent>.c-cardTxt .c-ctaBtn {
+        background-color: white;
+    }
+
+    .c-big3Up .c-cardContent {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+    }
+
+    .c-big3Up .c-cardContent .c-bannerContent {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .c-leftBanner {
+        display: flex;
+        flex-direction: column;
+        margin: 10px 0;
+    }
+
+    .c-slider2Up .c-rightBanner>.c-cardContent {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    .c-slider2Up .c-rightBanner>.c-cardContent .c-cardTxt {
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        bottom: 5%;
+        left: unset;
+    }
+
+    .c-banner2Up .c-cardContent>.c-cardTxt .c-ctaBtn {
+        background-color: white;
+    }
+
+
+    .c-leftBanner .swiper-slide.c-slide>.c-bannerContent .c-ctaBtn {
+        background-color: white;
+        -webkit-box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.45);
+        -moz-box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.45);
+        box-shadow: 0px 4px 7px 0px rgba(0, 0, 0, 0.45);
+    }
+
+    .c-brand__container {
+        width: 70px;
+        height: 70px;
+        border-radius: 100%;
+        display: flex;
+    }
+
+    .c-bg__white {
+        background-color: white;
+    }
+
+    .c-brand-logo {
+        width: 70%;
+        margin: auto;
+    }
+
+    .c-brand__shadow {
+        -webkit-box-shadow: 0px 2px 7px 1px rgba(0, 0, 0, 0.76);
+        box-shadow: 0px 2px 7px 1px rgba(0, 0, 0, 0.76);
+    }
+
+    .c-brand-wrapper {
+        position: absolute;
+        z-index: 1;
+    }
+
+    .c-short-link {
+        text-decoration: underline;
+        text-align: center !important;
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        text-transform: uppercase;
+        margin: 10px 0 25px;
+        font-size: 1em;
+        letter-spacing: 1.3px;
+    }
+
+    .c-4Up-grid {
+        display: grid;
+    }
+
+    .swiper-slide.c-slide__scrollbar {
+        width: 22.1%;
+
+    }
+
+    .c-cta-white {
+        background-color: white !important;
+    }
+
+    .swiper-scrollbar.c-scrollbar {
+        width: 80%;
+        left: 10%;
+        background-color: white;
+    }
+
+    .swiper-scrollbar-drag {
+        background-color: #EFBF7F;
+    }
+
+    .c-banner-center-content {
+        position: absolute;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+    }
+
+    .c-banner__copy {
+        color: white;
+        letter-spacing: 3px;
+        width: 45%;
+        font-size: 1em;
+        text-align: center !important;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .c-banner__title {
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        margin-bottom: 6px;
+        font-size: 1.2em;
+    }
+
+    .scrolling-wrapper-flexbox {
+        display: -webkit-box;
+        display: flex;
+        flex-wrap: nowrap !important;
+        overflow-x: auto;
+    }
+
+    .scrolling-wrapper,
+    .scrolling-wrapper-flexbox {
+        width: 100%;
+        flex-wrap: wrap;
+        margin: 20px auto;
+
+        -webkit-overflow-scrolling: touch;
+
+    }
+
+    .c-card__swiper {
+        position: relative;
+        -webkit-box-flex: 0;
+        flex: 0 0 auto;
+        width: 44.2%;
+        margin-right: 17px;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-direction: column;
+    }
+
+    .c-card__scrolling {
+        position: relative;
+        -webkit-box-flex: 0;
+        flex: 0 0 auto;
+        width: 23.5%;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        /* flex-direction: column; */
+        align-items: center;
+    }
+
+    .c-brand__logo {
+        width: 150px;
+    }
+
+    .c-card__swiper .c-cardTxt {
+        position: relative;
+    }
+
+    .c-oneUp-left-content {
+        width: 100%;
+        flex-direction: row;
+        display: flex;
+        height: 100%;
+    }
+
+    .c-oneUp-text-wrapper {
+        width: 30%;
+        background-color: #F5F5F5;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .c-oneUp-img-wrapper {
+        width: 70%;
+    }
+
+    .c-img-snkr {
+        width: 100px;
+    }
+
+    .c-oneUp-text-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .c-title-left-oneUp {
+        font-family: 'Montserrat', sans-serif;
+        color: Black;
+        font-size: 1.4em;
+        margin: 5px auto;
+    }
+
+    .c-flag-slider {
+        left: -4px;
+        position: absolute;
+        top: 3%;
+        background: white;
+        width: 110px;
+        text-align: center;
+        border-radius: 0 15px 15px 0;
+        -webkit-box-shadow: 0px 2px 7px 5px rgba(0, 0, 0, 0.38);
+        box-shadow: 0px 2px 7px 5px rgba(0, 0, 0, 0.38);
+    }
+
+    .c-copy__flag {
+        display: block;
+        font-size: .8em;
+        padding: 7px 0;
+        font-weight: 500;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: black;
+    }
+
+    .c-copy__date {
+        color: white;
+        text-transform: uppercase;
+        font-weight: 500;
+        font-size: .9em;
+        display: flex;
+        align-items: center;
+        align-content: center;
+    }
+
+    .c-line__date {
+        color: #EFBF7F;
+        width: 8px;
+        text-align: center;
+        margin: 0 2px;
+    }
+
+    .c-date-slider {
+        position: absolute;
+        right: 4.5%;
+        top: 4.5%;
+    }
+
+    .c-white {
+        color: white;
+    }
+
+    .c-title-slider {
+        font-weight: 500;
+    }
+
+    .c-info-slider {
+        position: absolute;
+        top: 72%;
+        width: 90%;
+        margin: 0 5%;
+    }
+
+    .c-underline {
+        text-decoration: underline;
+    }
+
+    .c-moreinfo-slider {
+        position: absolute;
+        bottom: 2%;
+        right: 4.5%;
+    }
+
+    .c-copy-slider {
+        margin-top: 5px;
+        color: #C4A376;
+    }
+
+    .c-culto-slide {
+        background-color: #EFBF7F;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .c-title__cultoslider {
+        margin: 20px auto 0;
+        font-weight: 500;
+    }
+
+    .c-copy__cultoslider,
+    .c-title__cultoslider {
+        color: black;
+        width: 90%;
+        text-align: center;
+    }
+
+    .swiper-slide.c-slide__scrollbar {
+        height: unset;
+    }
+
+    .c-ctaBtn {
+
+        color: black;
+        font-family: 'Montserrat', sans-serif;
+        cursor: pointer;
+        width: 190px;
+        font-size: .9em;
+        padding: 14px 0;
+        display: block;
+        text-align: center;
+        border-radius: 100px;
+        font-weight: 500;
+        margin-right: 10px;
+    }
+
+    .c-copy__cultoslider {
+        margin: 10px auto 0;
+    }
+
+    .c-copy__cultoslider,
+    .c-title__cultoslider {
+        color: black;
+        width: 90%;
+        text-align: center;
+    }
+
+    .c-index-2 {
+        z-index: 1;
+    }
+
+    .c-scrolling-card-content {
+        position: absolute;
+        bottom: 4%;
+        left: 4%;
+    }
+
+    .c-scrolling-card-content .c-copy {
+        width: 90%;
+    }
+
+    .c-big3Up .c-cardContent .c-cardTxt {
+        position: absolute;
+        left: 5%;
+        bottom: 5%;
+    }
+
+    .c-imgTab {
+        display: none;
+    }
+
+    .c-calendar {
+        width: 100%;
+        height: 100%;
+    }
+
+    .c-calendar-title {
+        padding: 19px 0;
+        text-align: center !important;
+        color: white;
+        font-weight: 400;
+        letter-spacing: 1px;
+    }
+
+    .c-calendar-bg {
+        background: rgb(19, 13, 121);
+        background: linear-gradient(90deg, rgba(19, 13, 121, 1) 0%, rgba(17, 13, 78, 1) 50%, rgba(19, 13, 121, 1) 100%);
+    }
+
+    .c-calentar-menu {
+        border-top: 1px solid #2E5EC3;
+        border-bottom: 1px solid #2E5EC3;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .c-calentar-option {
+        color: white;
+        text-transform: uppercase;
+        font-weight: 300;
+        width: 100px;
+        text-align: center;
+        cursor: pointer;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .c-calendar-option_active {
+        font-weight: 600;
+        border-bottom: 3px solid #2E5EC3;
+        ;
+    }
+
+    .c-cta-bg-white {
+        background-color: white !important;
+    }
+
+    .c-calendar-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        padding: 10px 0 2px;
+        border-bottom: 1px solid #171d76;
+    }
+
+    .c-bullet-team-left,
+    .c-bullet-team-right {
+        border: 1px solid #2E5EC3;
+        padding: 8px 10px;
+        border-radius: 100px;
+        width: 125px;
+        color: white;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        font-size: .8em;
+    }
+
+    .c-calendar-content {
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .c-bullet-team-right {
+        justify-content: flex-end;
+    }
+
+    .c-bullet-team-left img {
+        margin-right: 10px;
+        margin-left: 5px;
+        width: 15px;
+    }
+
+    .c-bullet-team-right img {
+        width: 15px;
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+
+    .c-row-team-vs {
+        display: flex;
+        position: absolute;
+        left: 0;
+        justify-content: space-between;
+        width: 100%;
+        align-items: center;
+    }
+
+    .c-row-team-vs span,
+    .c-row-date-mobile span {
+        color: white;
+        display: block;
+        margin: 0 7px;
+        font-size: .8em;
+    }
+
+    .c-row-team-vs span {
+        display: none;
+    }
+
+    .c-padding-top-bottom {
+        margin: 10px 0
+    }
+
+    .c-vwrapper {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+    }
+
+    .c-video {
+        width: 100%;
+    }
+
+    .c-playpause {
+        background-image: url(https://site.innovasport.com/ux/culto/playpause-btn.svg);
+        background-repeat: no-repeat;
+        width: 120px;
+        cursor: pointer;
+        height: 80%;
+        margin: auto;
+        position: absolute;
+        top: -115px;
+        background-size: contain;
+        background-position: center;
+    }
+
+    .c-banner-vwrapper {
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        top: 55%;
+    }
+
+    .c-slider-wrapper {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .c-content-left {
+        width: 100%;
+    }
+
+    .c-content-right {
+        width: 100%;
+    }
+
+    .c-content-left-inner {
+        position: relative;
+        display: flex;
+        justify-content: center;
+    }
+
+    .c-info-wrapper-slider {
+        position: absolute;
+        bottom: 5%;
+        width: 90%;
+        margin: auto;
+    }
+
+    .c-title.removeDefault {
+        text-align: center;
+        font-size: 2em;
+    }
+
+    .swiper-pagination.c-pagination-banner-slider {
+        text-align: center;
+    }
+
+    .c-pagination-banner-slider .swiper-pagination-bullet {
+        background-color: #31303200 !important;
+        margin: 0 6px !important;
+    }
+
+    .c-pagination-banner-slider .swiper-pagination-bullet-active {
+        background-color: #EFBF7F !important;
+    }
+
+    .c-video-desk {
+        display: none;
+    }
+
+    .c-margin-btn {
+        margin: 10px auto 10px;
+    }
+
+    .c-row-date-mobile {
+        position: absolute;
+        top: 5px;
+    }
+
+    /* - - Extra Small Devices - - - */
+    @media only screen and (max-width:380px) {
+        .c-divider {
+            margin-bottom: 20px;
+            padding-top: 30px;
+        }
+
+        .c-copy__cultoslider {
+            color: white;
+            z-index: 1;
+        }
+
+        .c-oneUp-left-content {
+            flex-direction: column-reverse;
+        }
+
+        .c-ctaBtn {
+            width: 140px;
+        }
+
+        .c-4Up-grid {
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            gap: 10px 10px;
+        }
+
+        .c-oneUp-img-wrapper,
+        .c-oneUp-text-wrapper {
+            width: 100%;
+        }
+
+        .scrolling-wrapper-flexbox.scrolling-big-wrapper {
+            padding-top: 10px;
+        }
+
+        .scrolling-wrapper,
+        .scrolling-wrapper-flexbox {
+            width: 95%;
+            margin-left: 5%;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        .c-card__scrolling {
+            width: 72%;
+            margin-right: 15px;
+        }
+
+        .c-card__swiper {
+            width: 72%;
+            margin-right: 15px;
+        }
+
+        .swiper-scrollbar.c-scrollbar {
+            display: none;
+        }
+
+        .c-banner__copy {
+            width: 70%;
+        }
+
+        .swiper-container.c-carousel-srollbar {
+            width: 95%;
+            margin-left: 5%;
+        }
+
+        .swiper-slide.c-slide__scrollbar {
+            width: 72%;
+        }
+
+        .c-brand__container {
+            width: 45px;
+            height: 45px;
+        }
+
+        .c-brand-wrapper {
+            right: 4%;
+            top: 4%;
+        }
+
+        .c-cardContent {
+            margin: 7px 0;
+        }
+
+        .c-imgDesk {
+            display: none;
+        }
+
+        .c-dividerTxt {
+            font-size: .8em;
+        }
+
+        .c-promoBanner {
+            flex-direction: column;
+        }
+
+        .c-bannerText .c-bannerContent>.c-copy {
+            width: 95%;
+            margin: 10px auto 15px;
+            text-align: center;
+        }
+
+        .c-imgZoom {
+            width: 200%;
+            margin-left: -50%;
+        }
+
+        .swiper-button-next.c-nextSlide,
+        .swiper-button-prev.c-prevSlide {
+            display: none;
+        }
+
+        .c-banner4Up,
+        .c-slider2Up {
+            flex-direction: column;
+        }
+
+        .c-banner4Up .c-cardContent {
+            width: 100%;
+            margin: 10px 0;
+        }
+
+        .c-banner2Up .c-cardContent>.c-cardTxt,
+        .c-banner3Up .c-cardContent>.c-cardTxt {
+            position: absolute;
+            bottom: 5%;
+            left: 2.5%;
+        }
+
+        .c-promoBanner {
+            flex-direction: column;
+        }
+
+        .c-banner2Up .c-cardContent,
+        .c-banner3Up .c-cardContent {
+            position: relative;
+        }
+
+        .c-big3Up .c-cardContent .c-bannerContent {
+            bottom: 5%;
+        }
+
+        .c-big3Up .c-leftBanner>.c-cardContent .c-cardTxt {
+            position: absolute;
+            left: 2.5%;
+            bottom: 5%;
+        }
+
+        .c-banner4Up .c-cardContent .c-cardTxt {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center !important;
+        }
+
+        .c-promoBanner .c-bannerContent {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            text-align: center;
+            padding: 30px 30px 15px 30px;
+        }
+
+        .c-centerContent .c-bannerContent {
+            bottom: 5%;
+            left: 5%;
+        }
+
+        .c-promoBanner .c-ctaBtn {
+            margin: 0 0 30px 0
+        }
+
+        .c-bannerFlag {
+            font-size: .9em;
+        }
+
+        .c-promoTxt {
+            font-size: 1em;
+        }
+
+        .c-banner2Up {
+            flex-direction: column;
+        }
+
+        .c-cardTxt {
+            padding: 10px;
+        }
+
+        .c-ctaBtn {
+            margin-top: 10px;
+            font-size: .8em;
+            padding: 14px 0;
+        }
+
+        .c-banner3Up {
+            flex-direction: column;
+        }
+
+        .c-big3Up {
+            flex-direction: column-reverse;
+        }
+
+        .c-slider2Up .swiper-slide.c-slide>.c-bannerContent {
+            bottom: 5%;
+            left: 5%;
+        }
+
+        .swiper-slide.c-slide>.c-bannerContent {
+            bottom: 5%;
+            left: 5%;
+        }
+
+        .c-banner1Up .c-bannerContent {
+            left: 5%;
+            bottom: 5%;
+        }
+
+        .c-rightBanner .c-cardContent>.c-cardTxt {
+            bottom: 2%;
+            left: 2.5%;
+            position: absolute;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center !important;
+
+        }
+
+        .c-rightBanner .c-cardContent {
+            position: relative;
+        }
+
+        .c-bannerContent>p {
+            text-align: center !important;
+        }
+
+        .c-flagContent {
+            font-size: .9em;
+        }
+
+        .c-title {
+            font-size: 1.5em;
+            margin: 2.5px 0;
+        }
+
+        .c-banner-center-content {
+            bottom: 5%;
+        }
+
+        .c-banner__title {
+            font-size: 1em;
+
+        }
+
+        .c-banner__copy {
+            font-size: .8em;
+            letter-spacing: 2px;
+        }
+
+        .c-card-entry {
+            flex: 0 0 93%;
+            margin: 10px;
+        }
+
+        .c-entry-wrapper {
+            padding: 15px 0 15px 0;
+            justify-content: center;
+        }
+
+        .c-info-slider {
+            top: 79%;
+        }
+    }
+
+    /* - -  Small Devices - - - */
+    @media only screen and (min-width:381px) {
+        .c-divider {
+            margin-bottom: 20px;
+            padding-top: 30px;
+        }
+
+        .c-entry-wrapper {
+            padding: 15px 0 15px 0;
+            justify-content: center;
+        }
+
+        .c-card-entry {
+            flex: 0 0 93%;
+            margin-bottom: 15px;
+        }
+
+        .c-copy__cultoslider {
+            color: white;
+            z-index: 1;
+        }
+
+        .c-copy__cultoslider {
+            color: white;
+            font-size: .9em;
+            z-index: 1;
+            line-height: 1.2em;
+        }
+
+        .c-oneUp-left-content {
+            flex-direction: column-reverse;
+        }
+
+        .c-brand-wrapper {
+            right: 4%;
+            top: 4%;
+        }
+
+        .scrolling-wrapper-flexbox.scrolling-big-wrapper {
+            padding-top: 10px;
+        }
+
+        .c-card__swiper .c-cardTxt {
+            position: relative;
+        }
+
+        .c-banner__title {
+            font-size: 1em;
+        }
+
+        .scrolling-wrapper,
+        .scrolling-wrapper-flexbox {
+            width: 95%;
+            margin-left: 5%;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        .c-card__scrolling {
+            width: 72%;
+            margin-right: 15px;
+        }
+
+        .c-card__swiper {
+            width: 72%;
+            margin-right: 15px;
+        }
+
+        .c-banner-center-content {
+            bottom: 4%;
+        }
+
+        .c-banner__copy {
+            width: 90%;
+            font-size: .8em;
+        }
+
+        .swiper-scrollbar.c-scrollbar {
+            display: none;
+        }
+
+        .swiper-container.c-carousel-srollbar {
+            width: 95%;
+            margin-left: 5%;
+        }
+
+        .swiper-slide.c-slide__scrollbar {
+            width: 72%;
+        }
+
+        .c-brand__container {
+            width: 45px;
+            height: 45px;
+        }
+
+        .c-ctaBtn {
+            margin-top: 10px;
+            padding: 14px 0;
+            font-size: .9em;
+        }
+
+
+        .c-centerContent .c-bannerContent {
+            bottom: 5%;
+            left: 5%;
+        }
+
+        .c-banner4Up .c-cardContent .c-cardTxt {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center !important;
+        }
+
+        .c-promoBanner {
+            flex-direction: column;
+        }
+
+        .c-promoBanner .c-bannerContent {
+            padding: 30px 30px 15px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center !important;
+        }
+
+        .c-promoBanner>.c-ctaBtn {
+            margin: 0 auto 15px;
+        }
+
+        .c-title {
+            font-size: 1.6em;
+            margin: 2px 0;
+        }
+
+        .c-big3Up .c-cardContent .c-bannerContent {
+            bottom: 5%;
+        }
+
+        .c-imgZoom {
+            width: 200%;
+            margin-left: -50%;
+        }
+
+        .c-dividerTxt {
+            font-size: .9em;
+        }
+
+        .c-cardTxt {
+            padding: 10px 10px 5px;
+        }
+
+        .c-slider2Up .swiper-slide.c-slide>.c-bannerContent {
+            bottom: 5%;
+            left: 5%;
+        }
+
+        .swiper-slide.c-slide>.c-bannerContent {
+            bottom: 5%;
+            left: 5%;
+        }
+
+        .c-banner4Up {
+            flex-direction: column;
+        }
+
+        .c-banner4Up .c-cardContent {
+            width: 100%;
+            margin: 10px 0;
+        }
+
+        .c-promoTxt {
+            font-size: .8em;
+            padding: 15px 0;
+        }
+
+        .c-banner2Up,
+        .c-banner3Up {
+            flex-direction: column;
+        }
+
+        .c-banner2Up .c-cardContent {
+            width: 100%;
+            position: relative;
+            margin-bottom: 10px;
+
+        }
+
+        .c-banner3Up .c-cardContent {
+            width: 100%;
+            position: relative;
+            margin-bottom: 10px;
+
+        }
+
+        .c-banner2Up .c-cardContent>.c-cardTxt {
+            position: absolute;
+            bottom: 5%;
+            left: 5%;
+        }
+
+        .c-banner3Up .c-cardContent>.c-cardTxt {
+            position: absolute;
+            bottom: 5%;
+            left: 5%;
+        }
+
+        .c-big3Up {
+            flex-direction: column-reverse;
+        }
+
+        .c-imgDesk {
+            display: none;
+        }
+
+        .swiper-button-next.c-nextSlide,
+        .swiper-button-prev.c-prevSlide {
+            display: none;
+        }
+
+        .c-banner1Up .c-bannerContent {
+            left: 5%;
+            bottom: 5%;
+        }
+
+        .c-slider2Up {
+            flex-direction: column;
+        }
+
+        .c-big3Up .c-leftBanner .c-cardContent>.c-cardTxt {
+            bottom: 5%;
+            left: 5%;
+            position: absolute;
+        }
+
+        .c-cardContent {
+            margin-bottom: 15px;
+        }
+
+        .c-oneUp-img-wrapper,
+        .c-oneUp-text-wrapper {
+            width: 100%;
+        }
+
+        .c-oneUp-text-container {
+            width: 93%;
+            margin: 20px auto;
+        }
+
+        .c-4Up-grid {
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            gap: 10px 10px;
+        }
+
+        .c-big3Up {
+            display: flex;
+            flex-direction: column-reverse;
+        }
+
+        .c-info-slider {
+            top: 79%;
+        }
+    }
+
+    /* - - Tablet or Ipad - - - */
+    @media only screen and (min-width:681px) {
+        .c-divider {
+            margin-bottom: 25px;
+            padding-top: 35px;
+        }
+
+        .c-flag-slider {
+            width: 90px;
+        }
+
+        .c-imgMobile {
+            display: none;
+        }
+
+        .c-imgTab {
+            display: flex;
+        }
+
+        .c-blog-content {
+            padding: 0 0%;
+        }
+
+        .c-entry-wrapper {
+            padding: 25px 0 25px 0;
+        }
+
+        .c-info-slider {
+            top: 65%;
+        }
+
+        .c-copy__cultoslider,
+        .c-copy-slider {
+            font-size: .9em;
+            line-height: .9em;
+        }
+
+        .c-copy__cultoslider {
+            color: black;
+        }
+
+        .c-card-entry {
+            flex: 0 0 26.5%;
+            margin: 10px;
+        }
+
+
+        .scrolling-wrapper,
+        .scrolling-wrapper-flexbox {
+            width: 96.5%;
+            margin-left: 3.5%;
+            margin-top: 0;
+            margin-bottom: 10px;
+        }
+
+        .swiper-container.c-carousel-srollbar {
+            width: 96.5%;
+            margin-left: 3.5%;
+        }
+
+        .swiper-slide.c-slide__scrollbar {
+            width: 62%;
+        }
+
+        .c-card__swiper {
+            width: 62%;
+        }
+
+        .c-card__scrolling {
+            width: 62%;
+        }
+
+        .c-4Up-grid {
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            gap: 15px 20px;
+        }
+
+        .c-brand__container {
+            width: 55px;
+            height: 55px;
+        }
+
+        .c-brand-wrapper {
+            right: 4%;
+            top: 4%;
+        }
+
+        .c-dividerTxt {
+            font-size: 1em;
+        }
+
+        .c-content {
+            padding: 0 3.5%
+        }
+
+        .c-cardTxt {
+            padding: 0;
+        }
+
+        .c-banner4Up {
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        .c-banner4Up .c-cardContent {
+            width: 49%;
+            margin: 10px 0;
+        }
+
+        .c-banner2Up {
+            flex-direction: column;
+        }
+
+        .c-banner2Up .c-cardContent {
+            width: 100%;
+            position: relative;
+            margin-bottom: 10px;
+
+        }
+
+        .c-banner3Up .c-cardContent {
+            width: 100%;
+            position: relative;
+            margin-bottom: 10px;
+
+        }
+
+        .c-banner2Up .c-cardContent>.c-cardTxt {
+            position: absolute;
+            bottom: 5%;
+            left: 5%;
+        }
+
+        .c-banner3Up .c-cardContent>.c-cardTxt {
+            position: absolute;
+            bottom: 5%;
+            left: 5%;
+        }
+
+        .c-center {
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .c-promoBanner .c-ctaBtn {
+            background-color: white;
+            margin: 30px;
+        }
+
+        .c-fullContent .c-promoBanner>.c-bannerContent {
+            padding: 30px 7%;
+        }
+
+        .c-fullContent .c-promoBanner>.c-ctaBtn {
+            margin: 30px 7%;
+        }
+
+        .c-banner1Up .c-bannerContent {
+            bottom: 10%;
+            left: 7%
+        }
+
+        .c-promoTxt {
+            font-size: .9em;
+
+        }
+
+        .c-imgDesk {
+            display: none;
+        }
+
+        .c-slider2Up {
+            flex-direction: column;
+        }
+
+        .c-video-mob {
+            display: none;
+        }
+
+        .c-row-date-mobile {
+            display: none;
+        }
+
+        .c-calendar-wrapper {
+            padding: 5px 0;
+        }
+
+        .c-row-team-vs span {
+            display: block;
+        }
+
+        .c-row-team-vs {
+            justify-content: center;
+        }
+    }
+
+    /* - - Ipad Pro & Desktop - - - */
+    @media only screen and (min-width:992px) {
+
+        .c-content,
+        .c-content-mob {
+            padding: 0 4%
+        }
+
+        .c-video-desk {
+            display: flex;
+        }
+
+        .c-imgTab {
+            display: none;
+        }
+
+        .c-flag-slider {
+            width: 110px;
+        }
+
+        .c-info-slider {
+            top: 72%;
+        }
+
+        .c-card-entry {
+            flex: 0 0 22.5%;
+            margin: 10px;
+        }
+
+        .c-big3Up {
+            grid-template-columns: 0.5fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            gap: 20px 20px;
+            grid-template-areas:
+                ". c-rightBanner"
+                ". c-rightBanner";
+        }
+
+        .c-copy-slider {
+            font-size: 1em;
+            line-height: 1.2em;
+        }
+
+        .c-copy__cultoslider {
+            font-size: 1em;
+            color: black;
+        }
+
+        .c-moreinfo-slider {
+            bottom: 2%;
+        }
+
+        .c-oneUp-text-wrapper {
+            width: 30%;
+        }
+
+        .c-oneUp-img-wrapper {
+            width: 70%;
+        }
+
+        .c-card__swiper {
+            width: 45.4%;
+        }
+
+        .c-card__swiper .c-cardTxt {
+            position: absolute;
+            bottom: 4%;
+            left: 4%;
+        }
+
+        .scrolling-wrapper,
+        .scrolling-wrapper-flexbox {
+            width: 100%;
+            margin-left: 0;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        .scrolling-wrapper,
+        .scrolling-wrapper-flexbox {
+            justify-content: space-between;
+        }
+
+        .c-card__scrolling {
+            width: 32.5%;
+
+        }
+
+        .c-banner__title {
+            font-size: 1.2em;
+        }
+
+        .c-banner-center-content {
+            bottom: 5%;
+        }
+
+        .c-banner__copy {
+            font-size: 1em;
+            width: 40%;
+        }
+
+        .swiper-container.c-carousel-srollbar {
+            width: 93%;
+            margin-left: 7%;
+            padding-bottom: 30px;
+        }
+
+        .swiper-slide.c-slide__scrollbar {
+            width: 22.1%;
+        }
+
+        .c-4Up-grid {
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            grid-template-rows: 1fr;
+            gap: 0px 16px;
+        }
+
+        .c-brand__container {
+            width: 60px;
+            height: 60px;
+        }
+
+        .c-brand-wrapper {
+            right: 4%;
+            top: 4%;
+        }
+
+        .c-flagContent {
+            padding-top: 10px;
+        }
+
+        .c-big3Up .c-cardContent .c-bannerContent {
+            bottom: unset;
+        }
+
+        .c-cardContent {
+            margin-bottom: 0;
+        }
+
+        .c-promoBanner {
+            flex-direction: row;
+        }
+
+        .c-fullContent .c-promoBanner>.c-bannerContent {
+            padding: 30px 7%;
+        }
+
+        .c-fullContent .c-promoBanner>.c-ctaBtn {
+            margin: 30px 7%;
+        }
+
+        .c-promoBanner .c-bannerContent {
+            padding: 30px;
+            align-items: self-start;
+            position: relative;
+        }
+
+        .c-slider2Up .c-leftBanner .swiper-slide.c-slide>.c-bannerContent {
+            bottom: 5%;
+            top: unset;
+            left: unset;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            width: 100%;
+        }
+
+        .c-slider2Up .c-leftBanner .swiper-slide.c-slide>.c-bannerContent .c-btnContainer {
+            align-items: flex-end;
+        }
+
+        .c-leftBanner .swiper-slide.c-slide>.c-bannerContent .c-title,
+        .c-leftBanner .swiper-slide.c-slide>.c-bannerContent .c-copy {
+            color: black;
+        }
+
+        .swiper-button-next.c-nextSlide,
+        .swiper-button-prev.c-prevSlide {
+            display: flex;
+        }
+
+        .c-imgZoom {
+            width: 100%;
+            margin-left: 0;
+        }
+
+        .c-slider2Up {
+            flex-direction: row;
+        }
+
+        .c-divider {
+            margin-bottom: 35px;
+            padding-top: 55px;
+        }
+
+        .c-dividerTxt {
+            font-size: 1.1em;
+        }
+
+        .c-flagContent {
+            letter-spacing: 1px;
+            font-size: 1.2em;
+        }
+
+        .c-title {
+            font-size: 3em;
+            letter-spacing: 1px;
+        }
+
+        .c-bigBanner>.c-bannerContent {
+            left: 7%;
+            bottom: unset;
+        }
+
+        .c-ctaBtn {
+            margin-top: 10px;
+            font-size: .9em;
+            padding: 12px 0;
+        }
+
+        .swiper-slide.c-slide>.c-bannerContent {
+            top: 52%;
+            left: 7%
+        }
+
+        .c-bannerText .c-bannerContent>.c-copy {
+            width: 75%;
+            margin: auto;
+            font-size: 1em;
+        }
+
+        .c-banner1Up .c-bannerContent {
+            bottom: 10%;
+            left: 7%
+        }
+
+        .c-banner4Up {
+            flex-wrap: nowrap;
+            flex-direction: row;
+        }
+
+        .c-banner4Up .c-cardContent {
+            width: 24%;
+        }
+
+        .c-cardTxt .c-flagContent {
+            color: #EFBF7F;
+            font-size: .8em;
+        }
+
+        .c-cardTxt .c-title {
+            font-size: 1.5em;
+        }
+
+        .c-promoBanner .c-ctaBtn {
+            background-color: white;
+            margin: 30px;
+        }
+
+        .c-bannerFlag {
+            font-size: 1.5em;
+        }
+
+        .c-fullContent .c-promoBanner>.c-bannerContent {
+            padding: 30px 7%;
+        }
+
+        .c-fullContent .c-promoBanner>.c-ctaBtn {
+            margin: 30px 7%;
+        }
+
+        .c-promoTxt {
+            font-size: .9em;
+
+        }
+
+        .c-banner2Up,
+        .c-banner3Up,
+        .c-slider2Up {
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        .c-banner2Up .c-cardContent {
+            width: 49.3%;
+        }
+
+        .c-banner3Up .c-cardContent {
+            width: 32.3%;
+        }
+
+        .c-big3Up {
+            width: 100%;
+            height: 100%;
+        }
+
+        .c-big3Up {
+            display: grid;
+
+        }
+
+        .c-rightBanner .c-cardContent .c-bannerContent .c-title {
+            text-align: center;
+        }
+
+        .c-big3Up>.c-rightBanner {
+            width: 100%;
+        }
+
+        .c-big3Up .c-leftBanner {
+            width: 32.3%;
+            height: auto;
+            justify-content: space-between;
+        }
+
+        .c-leftBanner .c-cardContent {
+            position: relative;
+        }
+
+        .c-leftBanner .c-cardContent .c-cardTxt {
+            position: absolute;
+            left: 5%;
+            bottom: 5%;
+        }
+
+        .c-imgDesk {
+            display: block;
+        }
+
+        .c-imgMobile {
+            display: none;
+        }
+
+        .c-slider2Up .c-leftBanner {
+            width: 63%;
+        }
+
+        .c-slider2Up .c-rightBanner {
+            width: 35.5%;
+        }
+
+        .c-rightBanner .c-cardContent>.c-cardTxt {
+            bottom: 5%;
+            left: 5%;
+            position: absolute;
+        }
+
+        .c-rightBanner .c-cardContent {
+            position: relative;
+        }
+
+        .scrolling-wrapper-flexbox.scrolling-big-wrapper {
+            width: 93%;
+            margin-left: 7%;
+        }
+
+        .c-oneUp-text-container {
+            width: 85%;
+            margin: auto;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .c-oneUp-left-content {
+            flex-direction: row;
+        }
+
+        .c-blog-content {
+            padding: 0 2%;
+        }
+
+        .c-content-left {
+            width: 35.8%;
+        }
+
+        .c-content-right {
+            width: 64.2%;
+        }
+
+        .c-slider-wrapper {
+            flex-direction: row;
+        }
+
+        .c-margin-btn {
+            margin: 10px auto 0;
+        }
+
+        .c-row-team-vs span {
+            font-size: .9em;
+        }
+
+        .c-img-big-size {
+            width: 19px !important;
+        }
+
+        .c-bullet-team-left img,
+        .c-bullet-team-right img {
+            width: 25px;
+        }
+
+        .c-bullet-team-left,
+        .c-bullet-team-right {
+            width: 170px;
+        }
+
+        .c-calendar {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .c-btn-calendar {
+            position: absolute;
+            bottom: 5%;
+        }
+
+        .c-leftBanner {
+            margin: unset;
+        }
+
+        .swiper-pagination.c-pagination-banner-slider {
+            right: 5%;
+            text-align: right;
+            left: unset !important;
+        }
+
+    }
+
+    @media only screen and (min-width:1200px) {
+        .c-title-slider {
+            font-size: 1.3em;
+        }
+
+        .c-copy-slider {
+            font-size: .95em;
+            line-height: 1em;
+        }
+
+        .c-content,
+        .c-content-mob {
+            padding: 0 7%
+        }
+    }
+
+    /* - - Large Desktop - - - */
+    @media only screen and (min-width:1600px) {
+        .c-promoTxt {
+            font-size: 1em;
+            padding: 20px 0;
+
+        }
+    }
+</style>
